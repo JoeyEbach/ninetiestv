@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fixWLNfUfPaUr6rE8JBqk+zHfslrfpuB/IyBV5Z3q3Pg5ikt7DPu7AzY4+y8oVxyqRoONIF4EIzkPVxkJibjw==",
+  "success": true,
+  "projectFilePath": "/Users/joeyebach/workspace/foundations/CsharpProjects/ninetiestv/NinetiesTV.csproj",
+  "expectedPackageFiles": [
+    "/Users/joeyebach/.nuget/packages/csvhelper/27.1.0/csvhelper.27.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

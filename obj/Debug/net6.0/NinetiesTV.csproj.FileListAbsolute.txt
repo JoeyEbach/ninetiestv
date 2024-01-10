@@ -1,0 +1,17 @@
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/bin/Debug/net6.0/NinetiesTV
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/bin/Debug/net6.0/NinetiesTV.deps.json
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/bin/Debug/net6.0/NinetiesTV.runtimeconfig.json
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/bin/Debug/net6.0/NinetiesTV.dll
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/bin/Debug/net6.0/NinetiesTV.pdb
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/bin/Debug/net6.0/CsvHelper.dll
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.csproj.AssemblyReference.cache
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.AssemblyInfoInputs.cache
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.AssemblyInfo.cs
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.csproj.CoreCompileInputs.cache
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.csproj.CopyComplete
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.dll
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/refint/NinetiesTV.dll
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.pdb
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/NinetiesTV.genruntimeconfig.cache
+/Users/joeyebach/workspace/foundations/CsharpProjects/NinetiesTV/obj/Debug/net6.0/ref/NinetiesTV.dll
